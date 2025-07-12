@@ -31,3 +31,14 @@ const myFuction= function(){
 }
 
 //console.log (typeof  );
+
+///stack (primitive), Heap (nonprimi)
+
+let myYoutube= "anjsn"
+let another= myYoutube
+another= "ajhfg"
+console.log(another);
+
+let user={
+    email: "sjejhf@gmail.com"
+};
